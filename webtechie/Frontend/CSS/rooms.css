@@ -1,0 +1,39 @@
+/* CSS for rooms.css */
+
+
+.parallax {
+            /* The image used */
+            background-color:transparent;
+    
+            /* Set a specific height and create the parallax scrolling effect */
+            height: 100vh;
+            background-attachment: absolute;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+          
+        }
+
+        body {
+            margin-left:50px;
+            margin-right:50px;
+            height:100px;
+            size:100px;
+            background-image: url("Bilder/background2.jpg");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .navbar-custom {
+            background-color: rgb(34, 74, 110);
+            opacity: 0.9;
+        }
+
+        .card {
+          margin-left:5%;
+          margin-top:30%;
+          width: 70%;
+          height: 80%;
+          border-color: rgb(34, 74, 110);
+        }

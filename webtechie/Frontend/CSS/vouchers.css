@@ -1,0 +1,24 @@
+body {
+    padding-top: 70px; 
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+/* Style for expired or used vouchers */
+.highlight td {
+    background-color: #ffcccc !important; 
+}

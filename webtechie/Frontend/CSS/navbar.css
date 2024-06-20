@@ -1,0 +1,51 @@
+/* navbar.css */
+.navbar-custom {
+    background-color: rgba(34, 74, 110, 1) !important;
+    color: white !important;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-custom .navbar-brand {
+    color: white !important;
+}
+
+.navbar-custom .navbar-toggler-icon {
+    filter: invert(1); 
+}
+
+.navbar-custom .dropdown-menu {
+    background-color: rgba(34, 74, 110, 0.9) !important;
+}
+
+.navbar-custom .dropdown-item {
+    color: white !important;
+}
+
+.navbar-custom .dropdown-item:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: white !important;
+}
+
+.navbar-custom .form-control {
+    background-color: rgba(34, 74, 110, 0.9);
+    color: white;
+    border: 1px solid white;
+}
+
+.navbar-custom .btn-outline-light {
+    color: white;
+    border-color: white;
+}
+
+.navbar-custom .btn-outline-light:hover {
+    background-color: white;
+    color: rgba(34, 74, 110, 0.9);
+}
+
+#floatingSearch {
+    background-color: white;
+    color: black;
+}

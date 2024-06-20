@@ -1,0 +1,46 @@
+.parallax {
+    background-color: transparent;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../../Frontend/Bilder/backgroundLego.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.photo  {
+    width: 500px; /* specify unit */
+    height: 300px; /* specify unit */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hello {
+
+    text-align: center;
+    font-size: 55px;
+    font-style: italic;
+    text-shadow: 5px 5px 7px #000000;
+    background-color:  rgba(34, 74, 110, 0.9);
+    
+}
+
+.container {
+    width: 30%;
+    
+}

@@ -1,0 +1,19 @@
+/* CSS for user_management.css */
+.navbar-custom {
+    background-color: rgb(34, 74, 110);
+  }
+
+  .container {
+    margin-top: 10px;
+  }
+
+  .card {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 0rem;
+  }
+
+  body {
+    background: url("Bilder/background2.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }

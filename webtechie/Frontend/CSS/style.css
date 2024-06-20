@@ -1,0 +1,75 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+    size: 100px;
+    background-image: url("../Bilder/backgroundLego.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .navbar-custom {
+    background-color: rgb(34, 74, 110);
+  }
+  
+  .container {
+    margin-top: 50px;
+    opacity: 0.85;
+  }
+  
+  .card {
+    border: none;
+    background-color: rgba(34, 74, 110, 0.9);
+    border-radius: 2rem;
+  }
+  
+  /* Impressum specific styles */
+.impressum-heading {
+  margin-top: 100px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.impressum-content {
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.impressum-info {
+  margin-top: 20px;
+  list-style-type: none;
+  width: 25em;
+  margin: 0 auto;
+}
+
+.impressum-info li {
+  margin-bottom: 10px;
+}
+
+.impressum-platform-heading {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.impressum-platform-content {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.impressum-haftung-heading {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.impressum-haftung-content {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.impressum-body {
+  background-image: none;
+}

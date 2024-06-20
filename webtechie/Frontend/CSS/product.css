@@ -1,0 +1,28 @@
+.parallax {
+    background-color: transparent;
+    height: 100vh;
+    background-attachment: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.title {
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 50px;
+    text-align: center; 
+}
+
+body {
+    padding-top: 110px;
+    background-image: url("../../Frontend/Bilder/background2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
